@@ -1014,7 +1014,7 @@ section {
   background: #37b3ed;
 }
 
-.contact .btn-telegram {
+.btn-telegram {
   background: #149ddd;
   border: 0;
   padding: 10px 24px;
@@ -1023,7 +1023,7 @@ section {
   border-radius: 4px;
 }
 
-.contact .btn-telegram:hover {
+.btn-telegram:hover {
   background: #37b3ed;
 }
 
