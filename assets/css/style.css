@@ -1014,6 +1014,19 @@ section {
   background: #37b3ed;
 }
 
+.contact .btn-telegram {
+  background: #149ddd;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 4px;
+}
+
+.contact .btn-telegram:hover {
+  background: #37b3ed;
+}
+
 @keyframes animate-loading {
   0% {
     transform: rotate(0deg);
